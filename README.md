@@ -1,4 +1,4 @@
 # hello-world
 Slackの皆さん、見てますカー！
 
-こちらはbranchAです！
+こちらはbranchAであり、私はmasterである。
